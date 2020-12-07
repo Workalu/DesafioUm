@@ -41,12 +41,48 @@
 
 1. Insomnia
 2. Postbird
+3. Figma
 
 #### Necessário
 
 1. Git
 2. NPM ou YARN
-3. Docker (docker-compose)
+3. Docker / (docker-compose)
 4. Sdk do Android (Android Studio)
 5. Node.js
 
+
+# <img src="https://img.shields.io/badge/Desafio_1-Design_de_interface-orange?style=for-the-badge&logo=figma" />
+
+##### Construir o layout do projeto
+
+- Será usado o Figma como o programa padrão para a construção do layout
+
+ 1. Web
+ 2. Mobile
+ 
+ 
+# <img src="https://img.shields.io/badge/Desafio_2-Construção_Backend-green?style=for-the-badge&logo=postgresql" />
+
+- Irão construir a API do projeto integrando o banco de dados com o aplicativo
+
+1. Construir o banco de dados
+  - Postgresql
+  - Outros
+2. Construir a API
+  - Knex
+  - Express
+  - Outros
+
+# <img src="https://img.shields.io/badge/Desafio_3-Construção_Frontend-blue?style=for-the-badge&logo=react" />
+
+- Irão construir um site responsivo do projeto e o aplicativo.
+
+1. Construir o site
+  - React
+2. Construir o aplicativo
+  - React-native
+
+### OBS: 
+
+- Linguagem: Typescript 
