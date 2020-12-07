@@ -20,6 +20,7 @@
 - Tela de recomendações
 - Tela de restaurantes favoritos
 - Tela de usuário
+- Tela inicial (Web)
 
 ##### Banco de Dados
  - Usuário
@@ -28,9 +29,24 @@
     3. email
     4. senha
  - Restaures Favoritos
+ 
 ##### Funcionalidades
   - Cadastrar usuário
   - Fazer o login do usuário
   - Trazer restaurantes mais próximos da sua localização(culinária preferida)
   - Favoritar os restaurantes
   - Modificar a culinária preferida
+
+#### Ferramentas
+
+1. Insomnia
+2. Postbird
+
+#### Necessário
+
+1. Git
+2. NPM ou YARN
+3. Docker (docker-compose)
+4. Sdk do Android (Android Studio)
+5. Node.js
+
