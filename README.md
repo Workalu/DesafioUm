@@ -1,2 +1,5 @@
-# Treinamento Workalu - Desafios <img src="https://github.com/FilipeCamera/FilipeCamera/blob/main/LogoWorkalu.png" width="100" />
+<p align="center">
+  <img src="https://github.com/Workalu/DesafioUm/blob/main/LogoWorkalu.png" width="100" />
+</p>
+
 
