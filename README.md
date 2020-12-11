@@ -80,7 +80,7 @@
 1. Construir o site
   - React
 2. Construir o aplicativo
-  - React-native
+  - React-native ou Expo
 
 ### OBS: 
 
