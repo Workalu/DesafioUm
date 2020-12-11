@@ -70,7 +70,6 @@
   - Postgresql
   - Outros
 2. Construir a API
-  - Knex
   - Express
   - Outros
 
