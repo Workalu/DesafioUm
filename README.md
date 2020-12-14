@@ -46,9 +46,9 @@
 #### Necessário
 
 1. Git
-2. NPM ou YARN
+2. NPM / YARN
 3. Docker / (docker-compose)
-4. Sdk do Android (Android Studio)
+4. Sdk do Android (Android Studio) / Expo
 5. Node.js
 
 
