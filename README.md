@@ -42,6 +42,7 @@
 1. Insomnia
 2. Postbird
 3. Figma
+4. Vscode
 
 #### Necessário
 
