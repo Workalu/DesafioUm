@@ -40,9 +40,12 @@
 #### Ferramentas
 
 1. Insomnia
+  - https://insomnia.rest/download/core/?&ref=
 2. Postbird
+  - https://github.com/Paxa/postbird/releases/tag/0.8.4
 3. Figma
 4. Vscode
+  - https://code.visualstudio.com/#alt-downloads
 
 #### Necessário
 
@@ -51,6 +54,7 @@
 3. Docker / (docker-compose)
 4. Sdk do Android (Android Studio) / Expo
 5. Node.js
+  - No windows o NPM já vem junto com o Node.js
 
 
 # <img src="https://img.shields.io/badge/Desafio_1-Design_de_interface-orange?style=for-the-badge&logo=figma" />
